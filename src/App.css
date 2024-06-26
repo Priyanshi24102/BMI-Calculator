@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+.container{
+  height: 100vh;
+  width: 100vw;
+  background-color: rgb(217, 216, 216);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bmiContainer{
+  background-color: rgb(37, 36, 36);
+  height: 80vh;
+  width: 35vw;
+  color: white;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+.bmiContainer input{
+  height: 7%;
+  width: 85%;
+  margin: 10px 30px;
+}
+.btn button{
+  padding: 10px 8px;
+  margin: 20px;
+  background-color: rgb(51, 50, 50);
+  color: white;
+  border: none;
+  font-size: 20px;
+  border-radius: 5px;
+}
